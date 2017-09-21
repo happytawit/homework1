@@ -1,0 +1,5 @@
+a = int(input("Введите число a = "))
+b = int(input("Введите число b = "))
+znak = input("Выберите знак действие '+' или '-': ")
+if(znak == "+"): print(a+b)
+if(znak == "-"): print(a-b)
